@@ -1,6 +1,6 @@
 
 test:
-    - sphinx-build -b html -d docs/_build/doctrees docs docs/_build/html
+    - sphinx-build -W -b html -d content/_build/doctrees content content/_build/html
 
 
 deployment:
