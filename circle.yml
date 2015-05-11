@@ -1,6 +1,7 @@
 
 test:
-    - sphinx-build -W -b html -d content/_build/doctrees content content/_build/html
+    override:
+        - sphinx-build -W -b html -d content/_build/doctrees content content/_build/html
 
 
 deployment:
