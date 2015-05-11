@@ -1,0 +1,10 @@
+
+test:
+    - sphinx-build -b html -d docs/_build/doctrees docs docs/_build/html
+
+
+deployment:
+    production:
+        branch: content
+        commands:
+          - "bash deployment.sh"
