@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'MasterFacilityList Documentation'
+project = u'MasterFacilityList'
 copyright = u'2015, SIL'
 author = u'SIL'
 
