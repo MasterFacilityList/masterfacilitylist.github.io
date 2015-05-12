@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-mkdocs gh-deploy --commit-message "Update documentation from $(git rev-parse HEAD)"
+mkdocs gh-deploy -m "Update documentation from $(git rev-parse HEAD)"
