@@ -1,0 +1,5 @@
+
+test:
+    override:
+        - rm -rf content/_build/*
+        - sphinx-build -W -b html -d content/_build/doctrees content content/_build/html
