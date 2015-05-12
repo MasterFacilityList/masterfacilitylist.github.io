@@ -1,1 +1,1 @@
-mkdocs
+-e  git://github.com/mbacho/mkdocs.git@master#egg=mkdocs
