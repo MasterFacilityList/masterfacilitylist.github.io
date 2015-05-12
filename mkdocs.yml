@@ -1,0 +1,5 @@
+site_name: MasterFacilityList Documentation
+site_description: Documentation for the Kenyan MasterFacilityList
+repo_url: https://github.com/masterfacilitylist/masterfacilitylist.github.io
+copyright: <p>&copy; Ministry of Health, Republic of Kenya 2015</p><p>Built by Savannah Informatics Limited</p>
+remote_branch: "master"
