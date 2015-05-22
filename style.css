@@ -11,6 +11,24 @@ body {
     height: 100vh;
 }*/
 
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+.pull-center {
+    /*margin-left: 40%;*/
+}
+
+.home-title {
+    background-color: #2196F3;
+    color: #fff;
+}
+
+.bs-sidebar .nav > .active > a, .bs-sidebar .nav > .active:hover > a, .bs-sidebar .nav > .active:focus > a
+.home-page {
+    width: 100% !important;
+    color : #2196F3 !important;
+}
+
 .navbar {
     background-color: #2196F3;
     color: #fff;
@@ -70,4 +88,17 @@ blockquote > p {
 footer {
     background-color: #2196F3 !important;
     color : #fff !important;
+    min-height: 180px !important;
+}
+
+footer > hr, footer > p {
+    display: none;
+}
+
+a {
+    color: #fff !important;
+}
+
+.spliter {
+    border-right: 1px solid #fff;
 }
