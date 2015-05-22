@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "MasterFacilityList Documentation\n\n\n\n\nWelcome to the Master Facility List Public website documentation and guide. This is a revamp v2.0 of the origin Master Facility Public web system.\n\n\n\n\nVideo Tutorial", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#masterfacilitylist-documentation", 
+            "text": "Welcome to the Master Facility List Public website documentation and guide. This is a revamp v2.0 of the origin Master Facility Public web system.   Video Tutorial", 
+            "title": "MasterFacilityList Documentation"
+        }, 
+        {
+            "location": "/admin/", 
+            "text": "Master Facility List Documentation\n\n\n\n\nTo be done", 
+            "title": "Mfl Admin"
+        }, 
+        {
+            "location": "/admin/#master-facility-list-documentation", 
+            "text": "To be done", 
+            "title": "Master Facility List Documentation"
+        }
+    ]
+}

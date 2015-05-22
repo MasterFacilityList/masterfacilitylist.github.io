@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:100,400");
+
+html,
+body {
+    font-family: 'Lato', sans-serif;
+    /*font-weight: 500;*/
+    /*font-size: 12px;
+*/    letter-spacing: 0.5px;
+}
+/*.container {
+    height: 100vh;
+}*/
+
+.navbar {
+    background-color: #2196F3;
+    color: #fff;
+}
+.navbar-default {
+    color: #fff;
+}
+
+.
+
+.navbar-default > .navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav {
+    color: #fff !important;
+}
+.navbar-nav > li > a {
+    color: #fff !important;
+}
+.navbar-nav > .active > a {
+     color: #2196F3 !important;
+    background-color: whitesmoke !important;
+}
+
+.navbar-nav > .active > a:hover {
+     color: #2196F3 !important;
+    background-color: whitesmoke !important;
+}
+
+#masterfacilitylist-documentation {
+    font-family: 'Lato', sans-serif;
+}
+
+#video-tutorial {
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:active, .navbar-nav > li > a:focus {
+    color: #2196F3 !important;
+    background-color: whitesmoke !important;
+    border-right: 1px solid #2196F3 !important;
+    border-left: 1px solid #2196F3 !important;
+}
+
+blockquote {
+    font-weight: 700;
+}
+
+blockquote > p {
+    font-weight: 500;
+}
+
+footer {
+    background-color: #2196F3 !important;
+    color : #fff !important;
+}
